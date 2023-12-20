@@ -1,8 +1,8 @@
 {
     "name": "sdesmet/module-container-attributes",
-    "description": "",
+    "description": "Allow adding attributes on containers via layout.xml",
     "type": "magento2-module",
-    "license": "",
+    "license": "MIT",
     "require": {
     },
     "require-dev": {
