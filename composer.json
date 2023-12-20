@@ -1,0 +1,19 @@
+{
+    "name": "sdesmet/module-container-attributes",
+    "description": "",
+    "type": "magento2-module",
+    "license": "",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Sdesmet\\ContainerAttributes\\": ""
+        }
+    }
+}
+
